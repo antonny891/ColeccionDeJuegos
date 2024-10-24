@@ -14,6 +14,7 @@
 		E29CE3142CAE15EB00EDBAD1 /* MamanchuraAlccaColeccionDeJuegos.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E29CE3122CAE15EB00EDBAD1 /* MamanchuraAlccaColeccionDeJuegos.xcdatamodeld */; };
 		E29CE3162CAE15ED00EDBAD1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E29CE3152CAE15ED00EDBAD1 /* Assets.xcassets */; };
 		E29CE3192CAE15ED00EDBAD1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E29CE3172CAE15ED00EDBAD1 /* LaunchScreen.storyboard */; };
+		E29CE3212CAE292800EDBAD1 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E29CE3202CAE292800EDBAD1 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		E29CE3152CAE15ED00EDBAD1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E29CE3182CAE15ED00EDBAD1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E29CE31A2CAE15ED00EDBAD1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E29CE3202CAE292800EDBAD1 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				E29CE3172CAE15ED00EDBAD1 /* LaunchScreen.storyboard */,
 				E29CE31A2CAE15ED00EDBAD1 /* Info.plist */,
 				E29CE3122CAE15EB00EDBAD1 /* MamanchuraAlccaColeccionDeJuegos.xcdatamodeld */,
+				E29CE3202CAE292800EDBAD1 /* JuegosViewController.swift */,
 			);
 			path = MamanchuraAlccaColeccionDeJuegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E29CE3212CAE292800EDBAD1 /* JuegosViewController.swift in Sources */,
 				E29CE30E2CAE15EA00EDBAD1 /* ViewController.swift in Sources */,
 				E29CE30A2CAE15EA00EDBAD1 /* AppDelegate.swift in Sources */,
 				E29CE30C2CAE15EA00EDBAD1 /* SceneDelegate.swift in Sources */,
